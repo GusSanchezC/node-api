@@ -1,5 +1,8 @@
 const express = require('express');
 const morgan = require('morgan');
+const mongoose = require('mongoose')
+require('dotenv').config();
+const mongoString = process.env.DATABASE_URL
 const app = express ();
 
 // middlewares
