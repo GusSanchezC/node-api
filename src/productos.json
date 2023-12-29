@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "nombre": "Reloj inteligente Fitbit Versa 3",
+      "precio": 229.95,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Auriculares inalámbricos Sony WH-1000XM4",
+      "precio": 349.99,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Laptop Dell XPS 13",
+      "precio": 1299.99,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Teléfono inteligente iPhone 13 Pro",
+      "precio": 1099.00,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Smart TV Samsung QLED 65 pulgadas",
+      "precio": 1599.99,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Cámara digital Canon EOS R6",
+      "precio": 2499.00,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Aspiradora robot Roomba i7+",
+      "precio": 799.00,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Monitor gaming ASUS ROG Swift PG279Q",
+      "precio": 699.99,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Teclado mecánico Corsair K95 RGB Platinum XT",
+      "precio": 199.99,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    },
+    {
+      "id": 10,
+      "nombre": "Silla ergonómica Herman Miller Aeron",
+      "precio": 1395.00,
+      "image": "https://cdn.quasar.dev/img/parallax2.jpg"
+    }
+  ]
+  
